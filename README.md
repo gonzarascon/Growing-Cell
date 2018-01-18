@@ -18,5 +18,5 @@ In the workit.js file, you will see some constructor functions that represents t
 
 ## Acknowledgments
 
-* Using [bmoren] (https://github.com/bmoren) p5.collide2D
-* Inspired on some [shiffman] (https://github.com/shiffman/) tutorials
+* Using [bmoren](https://github.com/bmoren) p5.collide2D
+* Inspired on some [shiffman](https://github.com/shiffman/) tutorials
